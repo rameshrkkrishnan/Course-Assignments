@@ -1,2 +1,3 @@
-Female bike users are very behind in counts compared to males, so need to introduce easy handling and secured models for them 
-and also need to focus on giving proper guidance and rewards for the purchase.
+This project focuses on analyzing sales data using Microsoft Excel. The dataset consists of various factors related to customers and their purchasing behavior.
+The project culminates in a visual dashboard created entirely within Excel. 
+This interactive dashboard provides an overview of the sales data and allows users to explore key metrics and trends.
